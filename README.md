@@ -6,7 +6,7 @@ Steps to follow:
 <li>cd yolov5</li>
  <li>pip install -r requirements.txt</li>
  <li>wget https://github.com/ </li>
- <li>python3 detect.py --weights best.pt --source hive01.mp4</li>
+ <li>python3 detect.py --weights best.pt --source bees-orig.mp4</li>
 </ul>
 
 Videos are on urls:
