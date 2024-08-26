@@ -13,8 +13,8 @@ Videos are on urls:
 
 Original video: 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ayMn05QY_UY/0.jpg)](https://www.youtube.com/watch?v=ayMn05QY_UY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mQ-ks4ybRHw/maxresdefault.jpg)](https://youtu.be/mQ-ks4ybRHw)
 
 Result video: 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xFJue6uXx2w/0.jpg)](https://www.youtube.com/watch?v=xFJue6uXx2w)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wZbo47IuIVM/maxresdefault.jpg)](https://youtu.be/wZbo47IuIVM)
