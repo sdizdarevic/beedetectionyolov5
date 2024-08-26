@@ -1,7 +1,10 @@
 # Bee detection and tracking
 Steps to follow:
-git clone https://github.com/ultralytics/yolov5
-cd yolov5
-pip install -r requirements.txt
-wget https://github.com/  
-python3 detect.py --weights best.pt --source hive01.mp4
+
+<ul>
+<li>git clone https://github.com/ultralytics/yolov5</li>
+<li>cd yolov5</li>
+ <li>pip install -r requirements.txt</li>
+ <li>wget https://github.com/ </li>
+ <li>python3 detect.py --weights best.pt --source hive01.mp4</li>
+</ul>
